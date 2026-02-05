@@ -1,6 +1,6 @@
 {
   "name": "clean-architecture-front-end",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Example of clean architecture in front-end (Next.js)",
   "main": "src/index.ts",
   "scripts": {
